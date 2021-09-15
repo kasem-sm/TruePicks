@@ -1,1 +1,10 @@
 Initial Commit
+
+* Migrated to our own server for more flexibility.
+* Added category options at top so users can easily browse and click without any navigations.
+* Data is now paged so you can see All Setups and Wallpapers at the initial screen.
+* Added Images from pexels for a refreshing experience.
+* New settings page with options such as fit wallpaper to screen or enable image compression
+* Brand new filter/Edit wallpaper option with lot of flexibility.
+* Now you can sync your favourites with your Google account so you can get it anytime, anywhere.
+And many more.
